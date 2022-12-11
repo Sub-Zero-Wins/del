@@ -1,5 +1,0 @@
-my:
- greeting: welcome
- list:
-  values: abc,def,hij
-  
